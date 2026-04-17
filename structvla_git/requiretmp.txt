@@ -1,0 +1,5 @@
+-e git+https://github.com/huggingface/lerobot@768e36660d1408c71118a2760f831c037fbfa17d#egg=lerobot
+-e git+https://github.com/simpler-env/ManiSkill2_real2sim@ef7a4d4fdf4b69f2c2154db5b15b9ac8dfe10682#egg=mani_skill2_real2sim
+pip install flash_attn==2.8.3 --no-build-isolation -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install evdev==1.9.2 --no-build-isolation
+numpy==1.26.4

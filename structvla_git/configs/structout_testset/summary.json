@@ -1,0 +1,9 @@
+{
+  "datasets": "real",
+  "logic_profile": "libero",
+  "dataset": "/remote-home/linweihao/maniparena_dataset_real/processed_data/meta/real_all_dualarm_norm.pkl",
+  "episodes_detected": 2561,
+  "triplets": 23649,
+  "out_root": "/remote-home/linweihao/maniparena_dataset_real/processed_data/structout_testset",
+  "test_mode": false
+}
